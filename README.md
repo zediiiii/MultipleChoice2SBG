@@ -1,5 +1,5 @@
 # MultipleChoice2SBG
-A Google Sheet + Gapps Script that automatically converts GradeCam export data (or manually multiple choice data) to user defined standard scores with rubric customization support.
+A Google Sheet + Gapps Script that automatically converts GradeCam export data (or manually entered multiple choice data - specifically course name, student name, and a single cell list of missed questions) to user defined standard scores (defined perquestion) with rubric customization support.
 
 
 The current iteration of the file (V1.3) can be copied at the following link:
